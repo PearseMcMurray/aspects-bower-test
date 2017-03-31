@@ -1,6 +1,5 @@
 {
   "name": "ux-aspects",
-  "version": "1.0.0",
   "description": "",
   "keywords": [    
   ],
@@ -11,7 +10,6 @@
   },
   "main": [
     "dist/lib/ux-aspects.js",
-    "dist/ng1/ux-aspects-ng1.js",
     "dist/styles/ux-aspects.css"
   ],
   "moduleType": "globals",
