@@ -1,0 +1,37 @@
+{
+  "name": "ux-aspects",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [    
+  ],
+  "homepage": "https://github.com/PearseMcMurray/aspects-bower-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PearseMcMurray/aspects-bower-test"
+  },
+  "main": [
+    "dist/lib/ux-aspects.js",
+    "dist/ng1/ux-aspects-ng1.js",
+    "dist/styles/ux-aspects.css"
+  ],
+  "moduleType": "globals",
+  "dependencies": {
+  },
+  "ignore": [
+    ".*",
+    "docs",
+    "Gruntfile.js",
+    "package.json",
+    "src",
+    ".jshintrc",
+    "testng.xml",
+    "testng-results.xml",
+    "UnitTestResults.txt",
+    "emailable-report.html",
+    "ExecutingUnitTests",
+    "buildscripts",
+    "configuration",
+    "docker",
+    "INT-CONTRIBUTING.md"
+  ]
+}
